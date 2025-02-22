@@ -12,6 +12,7 @@ namespace Tst
         {
             Console.WriteLine("ana nour ");
             Console.WriteLine("Omar ");
+            Console.WriteLine("second try");
         }
     }
 }
