@@ -11,6 +11,7 @@ namespace Tst
         static void Main(string[] args)
         {
             Console.WriteLine("ana nour ");
+            Console.WriteLine("Omar ");
         }
     }
 }
